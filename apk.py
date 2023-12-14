@@ -214,7 +214,7 @@ one meaning or translation, depending on the attachment of the word in a sentenc
     with col2:
         st.image("thoriq1.jpg", caption="Fika Hastarita Rachman", width=100)
     with col3:
-        st.image("thoriq1.jpg", caption="Sri Wahyuni", width=100)
+        st.image("ibu_sri1.jpeg", caption="Sri Wahyuni", width=100)
     with col4:
         st.image("thoriq1.jpg", caption="Muhammad Fathuthoriq", width=100)
     with col5:
