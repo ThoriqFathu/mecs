@@ -210,15 +210,15 @@ one meaning or translation, depending on the attachment of the word in a sentenc
     st.header("Developer Team")
     col1, col2, col3, col4, col5 = st.columns(5)
     with col1:
-        st.image("ibu_ifada.jpg", caption="Noor Ifada", width=100)
+        st.image("https://github.com/ThoriqFathu/mecs/blob/main/ibu_Ifada.jpg", caption="Noor Ifada", width=100)
     with col2:
-        st.image("thoriq1.jpg", caption="Fika Hastarita Rachman", width=100)
+        st.image("https://github.com/ThoriqFathu/mecs/blob/main/thoriq1.jpg", caption="Fika Hastarita Rachman", width=100)
     with col3:
-        st.image("ibu_sri1.jpeg", caption="Sri Wahyuni", width=100)
+        st.image("https://github.com/ThoriqFathu/mecs/blob/main/ibu_sri1.jpeg", caption="Sri Wahyuni", width=100)
     with col4:
-        st.image("thoriq1.jpg", caption="Muhammad Fathuthoriq", width=100)
+        st.image("https://github.com/ThoriqFathu/mecs/blob/main/thoriq1.jpg", caption="Muhammad Fathuthoriq", width=100)
     with col5:
-        st.image("thoriq1.jpg", caption="Moh. Amirullah", width=100)
+        st.image("https://github.com/ThoriqFathu/mecs/blob/main/thoriq1.jpg", caption="Moh. Amirullah", width=100)
     # st.markdown("""<img src="thoriq.jpg">""", unsafe_allow_html=True)
     st.header("References")
     st.markdown(
