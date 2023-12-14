@@ -1,8 +1,8 @@
 import streamlit as st
 
-import Stem
+# import Stem
 
-# from cobacoba import Stem
+from cobacoba import Stem
 # import pandas as pd
 import re
 from streamlit_option_menu import option_menu
