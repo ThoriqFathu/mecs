@@ -2,7 +2,7 @@ import streamlit as st
 
 # import Stem
 
-from cobacoba import Stem
+from cobastem import Stem
 # import pandas as pd
 import re
 from streamlit_option_menu import option_menu
