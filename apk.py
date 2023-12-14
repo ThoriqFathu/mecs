@@ -220,6 +220,18 @@ one meaning or translation, depending on the attachment of the word in a sentenc
     with col5:
         st.image("thoriq1.jpg", caption="Moh. Amirullah", width=100)
     # st.markdown("""<img src="thoriq.jpg">""", unsafe_allow_html=True)
+    st.header("Contact Us")
+    st.markdown(
+        f"""<div>
+        <ul>
+        <li>Noor Ifada : <a href='noor.ifada@trunojoyo.ac.id'>noor.ifada@trunojoyo.ac.id</a></li>
+        <li>Fika Hastarita Rachman : <a href='example@trunojoyo.ac.id'>example@trunojoyo.ac.id</a></li>
+        <li>Sri Wahyuni : <a href='example@trunojoyo.ac.id'>example@trunojoyo.ac.id</a></li>
+        <li>Muhammad Fathuthoriq : <a href='thoriq771@gmail.com'>thoriq771@gmail.com</a></li>
+        <li>Moh. Amirullah : <a href='example@trunojoyo.ac.id'>example@trunojoyo.ac.id</a></li>
+        </ul><div>""",
+        unsafe_allow_html=True,
+    )
     st.header("References")
     st.markdown(
         f"""<div>
